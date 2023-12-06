@@ -1,10 +1,6 @@
 ﻿Livro livro1 = new(1, "A coragem de ser imperfeito", "Brené Brown");
-
 Livro livro2 = new(2, "O lar da Srta. Peregrine", "Ranson Riggs");
-
 Livro livro3 = new(3, "As vantagens de ser invisível", "Stephen Chbosky");
-
-
 
 Biblioteca biblioteca = new();
 biblioteca.AdicionarItem(livro1);
